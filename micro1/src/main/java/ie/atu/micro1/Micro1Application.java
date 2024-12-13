@@ -8,6 +8,7 @@ public class Micro1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Micro1Application.class, args);
+		SpringApplication.run(Micro1Application.class, args);
 	}
 
 }
